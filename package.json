@@ -1,0 +1,16 @@
+{
+  "name": "katexs-lead-scraper",
+  "version": "1.0.0",
+  "description": "Hosted Google Maps lead scraper — Serper discovery + email finding, MillionVerifier validation, emails a CSV via Resend.",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
